@@ -1,0 +1,8 @@
+C:\Users\muham\source\repos\COBOL\Edits\Edits\bin\x86\Debug\Edits.exe
+C:\Users\muham\source\repos\COBOL\Edits\Edits\bin\x86\Debug\Edits.idy
+C:\Users\muham\source\repos\COBOL\Edits\Edits\obj\x86\Debug\Edits.idy
+C:\Users\muham\source\repos\COBOL\Edits\Edits\obj\x86\Debug\Edits.exe
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\Edits\bin\x86\Debug\Edits.exe
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\Edits\bin\x86\Debug\Edits.idy
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\Edits\obj\x86\Debug\Edits.idy
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\Edits\obj\x86\Debug\Edits.exe

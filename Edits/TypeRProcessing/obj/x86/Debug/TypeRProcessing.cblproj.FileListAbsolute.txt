@@ -1,0 +1,8 @@
+C:\Users\muham\source\repos\COBOL\Edits\TypeRProcessing\bin\x86\Debug\TypeRProcessing.exe
+C:\Users\muham\source\repos\COBOL\Edits\TypeRProcessing\bin\x86\Debug\TypeRProcessing.idy
+C:\Users\muham\source\repos\COBOL\Edits\TypeRProcessing\obj\x86\Debug\TypeRProcessing.idy
+C:\Users\muham\source\repos\COBOL\Edits\TypeRProcessing\obj\x86\Debug\TypeRProcessing.exe
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\TypeRProcessing\bin\x86\Debug\TypeRProcessing.exe
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\TypeRProcessing\bin\x86\Debug\TypeRProcessing.idy
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\TypeRProcessing\obj\x86\Debug\TypeRProcessing.idy
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\TypeRProcessing\obj\x86\Debug\TypeRProcessing.exe

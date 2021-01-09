@@ -1,0 +1,8 @@
+C:\Users\muham\source\repos\COBOL\Edits\SandLProcessing\bin\x86\Debug\SandLProcessing.exe
+C:\Users\muham\source\repos\COBOL\Edits\SandLProcessing\bin\x86\Debug\SandLProcessing.idy
+C:\Users\muham\source\repos\COBOL\Edits\SandLProcessing\obj\x86\Debug\SandLProcessing.idy
+C:\Users\muham\source\repos\COBOL\Edits\SandLProcessing\obj\x86\Debug\SandLProcessing.exe
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\SandLProcessing\bin\x86\Debug\SandLProcessing.exe
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\SandLProcessing\bin\x86\Debug\SandLProcessing.idy
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\SandLProcessing\obj\x86\Debug\SandLProcessing.idy
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\SandLProcessing\obj\x86\Debug\SandLProcessing.exe

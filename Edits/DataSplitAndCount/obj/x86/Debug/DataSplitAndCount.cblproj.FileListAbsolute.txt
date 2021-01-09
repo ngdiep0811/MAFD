@@ -1,0 +1,8 @@
+C:\Users\muham\source\repos\COBOL\Edits\DataSplitAndCount\bin\x86\Debug\DataSplitAndCount.exe
+C:\Users\muham\source\repos\COBOL\Edits\DataSplitAndCount\bin\x86\Debug\DataSplitAndCount.idy
+C:\Users\muham\source\repos\COBOL\Edits\DataSplitAndCount\obj\x86\Debug\DataSplitAndCount.idy
+C:\Users\muham\source\repos\COBOL\Edits\DataSplitAndCount\obj\x86\Debug\DataSplitAndCount.exe
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\DataSplitAndCount\bin\x86\Debug\DataSplitAndCount.exe
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\DataSplitAndCount\bin\x86\Debug\DataSplitAndCount.idy
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\DataSplitAndCount\obj\x86\Debug\DataSplitAndCount.idy
+C:\Users\muham\source\repos\COBOL\FinalProject\Group#2-TeamProgrammingProject\VisualStudioSolution\Edits\DataSplitAndCount\obj\x86\Debug\DataSplitAndCount.exe

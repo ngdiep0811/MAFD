@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "Edits", "Edits\Edits.cblproj", "{C5581618-9501-48F8-B06C-148B947246F5}"
+EndProject
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "DataSplitAndCount", "DataSplitAndCount\DataSplitAndCount.cblproj", "{A3A4979D-8A3A-4745-B16F-C10FAB73D13F}"
+EndProject
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "SandLProcessing", "SandLProcessing\SandLProcessing.cblproj", "{2D449E07-6D9D-4349-B1F7-8F7727F62B07}"
+EndProject
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "TypeRProcessing", "TypeRProcessing\TypeRProcessing.cblproj", "{472019EF-B652-4D18-8AAE-E199FD371490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5581618-9501-48F8-B06C-148B947246F5}.Debug|x86.ActiveCfg = Debug|x86
+		{C5581618-9501-48F8-B06C-148B947246F5}.Debug|x86.Build.0 = Debug|x86
+		{C5581618-9501-48F8-B06C-148B947246F5}.Release|x86.ActiveCfg = Release|x86
+		{C5581618-9501-48F8-B06C-148B947246F5}.Release|x86.Build.0 = Release|x86
+		{A3A4979D-8A3A-4745-B16F-C10FAB73D13F}.Debug|x86.ActiveCfg = Debug|x86
+		{A3A4979D-8A3A-4745-B16F-C10FAB73D13F}.Debug|x86.Build.0 = Debug|x86
+		{A3A4979D-8A3A-4745-B16F-C10FAB73D13F}.Release|x86.ActiveCfg = Release|x86
+		{A3A4979D-8A3A-4745-B16F-C10FAB73D13F}.Release|x86.Build.0 = Release|x86
+		{2D449E07-6D9D-4349-B1F7-8F7727F62B07}.Debug|x86.ActiveCfg = Debug|x86
+		{2D449E07-6D9D-4349-B1F7-8F7727F62B07}.Debug|x86.Build.0 = Debug|x86
+		{2D449E07-6D9D-4349-B1F7-8F7727F62B07}.Release|x86.ActiveCfg = Release|x86
+		{2D449E07-6D9D-4349-B1F7-8F7727F62B07}.Release|x86.Build.0 = Release|x86
+		{472019EF-B652-4D18-8AAE-E199FD371490}.Debug|x86.ActiveCfg = Debug|x86
+		{472019EF-B652-4D18-8AAE-E199FD371490}.Debug|x86.Build.0 = Debug|x86
+		{472019EF-B652-4D18-8AAE-E199FD371490}.Release|x86.ActiveCfg = Release|x86
+		{472019EF-B652-4D18-8AAE-E199FD371490}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {143F4A61-C15C-437A-BF78-23D11F2518BC}
+	EndGlobalSection
+EndGlobal
