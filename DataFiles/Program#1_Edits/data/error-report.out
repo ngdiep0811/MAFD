@@ -1,0 +1,62 @@
+GROUP-2                                  Date: 20/04/13         Time: 21/14/45
+
+                       GROUP PROJECT - MFD-1
+                           ERROR REPORT
+
+INVOICE NUMBER          ERROR DESCRIPTION               NO OF ERRORS IN RECORD
+XA-600005               Invalid SKU Code                         2
+AA-700006               Invalid Invoice Number                   1
+EB-900008               Invalid Invoice Number                   1
+EB-1500A3               Invalid Invoice Number                   1
+AA-240108               Invalid Invoice Number                   1
+DZ-250109               Invalid Invoice Number                   1
+EB-310212               Invalid SKU Code                         1
+BB-320015               Invalid Invoice Number                   1
+BA-350001               Invalid Payment type                     2
+BC-0S0030               Invalid Invoice Number                   2
+BB-460031               Invalid Invoice Number                   1
+CA-480033               Invalid Transaction amount               2
+CD-500122               Invalid SKU Code                         1
+DA-520036               Invalid Transaction code                 1
+DB-530037               Invalid Payment type                     1
+DE-550212               Invalid SKU Code                         1
+EC-580217               Invalid Payment type                     1
+AB-600219               Invalid Transaction code                 1
+ET-640225               Invalid Invoice Number                   1
+EE-650226               Invalid Invoice Number                   1
+CC-730234               Invalid Invoice Number                   1
+CE-750335               Invalid Payment type                     1
+DA-760336               Invalid Transaction code                 1
+EC-810402               Invalid Store Number                     1
+AD-850408               Invalid Store Number                     1
+AA-870410               Invalid Invoice Number                   1
+EA-900413               Invalid Invoice Number                   1
+GB-910401               Invalid Invoice Number                   2
+CC-920402               Invalid Invoice Number                   2
+ED-930403               Invalid Invoice Number                   1
+AB-940404               Invalid Invoice Number                   1
+AC-950402               Invalid Invoice Number                   1
+AD-960405               Invalid Invoice Number                   1
+AE-970406               Invalid Invoice Number                   3
+BA-98S407               Invalid Invoice Number                   2
+CC-99S508               Invalid Invoice Number                   3
+DB-106512               Invalid SKU Code                         1
+EC-110501               Invalid Payment type                     2
+DD-113524               Invalid Invoice Number                   1
+DC-123633               Invalid Transaction amount               1
+EE-125722               Invalid SKU Code                         4
+EB-127636               Invalid Transaction code                 1
+EA-128637               Invalid Payment type                     1
+AD-131S15               Invalid Invoice Number                   1
+BA-133617               Invalid Payment type                     1
+BD-135619               Invalid Transaction code                 1
+BB-136623               Invalid Invoice Number                   1
+DD-143629               Invalid Invoice Number                   1
+AC-1496N2               Invalid Invoice Number                   1
+AD-150635               Invalid Payment type                     1
+AE-151636               Invalid Store Number                     2
+AB-152637               Invalid Store Number                     1
+
+
+Total Records =    152Valid Records =    100
+Invalid Records =   52
